@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LaPesca.Web", "LaPesca.Web\LaPesca.Web.csproj", "{1990654C-FC64-463E-B8C5-61077B0EC81B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaPesca.Models", "LaPesca.Models\LaPesca.Models.csproj", "{54C3E0E6-988B-4277-8536-F799AB4358D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaPesca.Tools", "LaPesca.Tools\LaPesca.Tools.csproj", "{D66A70C6-751F-40E2-B4BF-A5D59C8E5097}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LaPesca.ViewModels", "LaPesca.ViewModels\LaPesca.ViewModels.csproj", "{A75F75EF-7B64-4A96-A73F-60D156CF7410}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1990654C-FC64-463E-B8C5-61077B0EC81B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1990654C-FC64-463E-B8C5-61077B0EC81B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1990654C-FC64-463E-B8C5-61077B0EC81B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1990654C-FC64-463E-B8C5-61077B0EC81B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C3E0E6-988B-4277-8536-F799AB4358D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C3E0E6-988B-4277-8536-F799AB4358D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C3E0E6-988B-4277-8536-F799AB4358D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C3E0E6-988B-4277-8536-F799AB4358D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D66A70C6-751F-40E2-B4BF-A5D59C8E5097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D66A70C6-751F-40E2-B4BF-A5D59C8E5097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D66A70C6-751F-40E2-B4BF-A5D59C8E5097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D66A70C6-751F-40E2-B4BF-A5D59C8E5097}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75F75EF-7B64-4A96-A73F-60D156CF7410}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75F75EF-7B64-4A96-A73F-60D156CF7410}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75F75EF-7B64-4A96-A73F-60D156CF7410}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75F75EF-7B64-4A96-A73F-60D156CF7410}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F294A6F6-1B1A-4AEC-8EA5-06547141F2CB}
+	EndGlobalSection
+EndGlobal
